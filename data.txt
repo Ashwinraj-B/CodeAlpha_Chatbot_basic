@@ -1,0 +1,8 @@
+Hello
+Hi!
+How are you
+I'm fine, thanks!
+What is your name
+My name is Ash
+Tell me about you
+I am chatbot of version 0.1x
